@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+16/01/2025, a new start.
+
+# Let's go! #
+
+
 <!--
 **anOrangeCat3/anOrangeCat3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
