@@ -2,7 +2,7 @@
 
 16/01/2025, a new start.
 
-**Let's go! **
+**Let's go!**
 
 
 <!--
