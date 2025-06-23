@@ -3,8 +3,8 @@
 
 **Let's go!**
 <div align="center">
-    <img src="gif/7_1750689860-ezgif.com-video-to-gif-converter.gif" width="100">
-    <img src="gif/6_1750689850-ezgif.com-video-to-gif-converter.gif" width="100">
+    <img src="gif/7_1750689860-ezgif.com-video-to-gif-converter.gif" width="200">
+    <img src="gif/6_1750689850-ezgif.com-video-to-gif-converter.gif" width="200">
 </div>
 
 <!--
