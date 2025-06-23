@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-16/01/2025, a new start.
 
 **Let's go!**
-
+<div align="center">
+    <img src="gif/7_1750689860-ezgif.com-video-to-gif-converter.gif" width="300">
+    <img src="gif/6_1750689850-ezgif.com-video-to-gif-converter.gif" width="300">
+</div>
 
 <!--
 **anOrangeCat3/anOrangeCat3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
