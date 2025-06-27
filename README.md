@@ -5,7 +5,7 @@
 <div align="center">
     <img src="gif/7_1750689860-ezgif.com-video-to-gif-converter.gif" width="200">
     <img src="gif/6_1750689850-ezgif.com-video-to-gif-converter.gif" width="200">
-    <img src="gif/trained_model-ezgif.com-crop.gif" width="200">
+    <img src="gif/trained_model-ezgif.com-crop.gif" width="172">
 </div>
 
 <!--
